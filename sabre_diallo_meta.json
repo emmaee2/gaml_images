@@ -1,0 +1,416 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                245.8179931640625,
+                0.0
+            ]
+        },
+        {
+            "title": "Related Work",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                132.44398498535156,
+                0.0
+            ]
+        },
+        {
+            "title": "Threat Model",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                430.8479919433594,
+                0.0
+            ]
+        },
+        {
+            "title": "Proposed Method: Sabre",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                632.4540405273438,
+                0.0
+            ]
+        },
+        {
+            "title": "Robust Feature Extraction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                201.69300842285156,
+                0.0
+            ]
+        },
+        {
+            "title": "Feature Reconstruction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                481.8919982910156,
+                0.0
+            ]
+        },
+        {
+            "title": "Robust Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                198.4399871826172,
+                0.0
+            ]
+        },
+        {
+            "title": "Evaluation",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                450.8819885253906,
+                0.0
+            ]
+        },
+        {
+            "title": "Datasets",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                288.7130126953125,
+                0.0
+            ]
+        },
+        {
+            "title": "Neural Network Architectures",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                205.5659942626953,
+                0.0
+            ]
+        },
+        {
+            "title": "Defense Benchmarks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                666.0469970703125,
+                0.0
+            ]
+        },
+        {
+            "title": "Robustness Assessment",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                398.3789978027344,
+                0.0
+            ]
+        },
+        {
+            "title": "Generalization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                175.76699829101562,
+                0.0
+            ]
+        },
+        {
+            "title": "Computational Complexity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                72.37800598144531,
+                0.0
+            ]
+        },
+        {
+            "title": "Discussion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                204.11700439453125,
+                0.0
+            ]
+        },
+        {
+            "title": "Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                305.1029968261719,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                305.1029968261719,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix A: Ablation study",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                594.4190063476562,
+                0.0
+            ]
+        },
+        {
+            "title": "Contribution of Sabre's individual components to the robustness",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                523.0740356445312,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix B: Performance validation",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                72.37800598144531,
+                0.0
+            ]
+        },
+        {
+            "title": "Robustness against adversarial attacks with different perturbation bounds",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                527.424072265625,
+                0.0
+            ]
+        },
+        {
+            "title": "Comparison against other combined pipelines",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                481.9859924316406,
+                0.0
+            ]
+        },
+        {
+            "title": "Domain generalization of spectral denoising-based defenses",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                204.3280029296875,
+                0.0
+            ]
+        },
+        {
+            "title": "Robustness against transfer attacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                315.0,
+                364.0369873046875,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix C: Datasets",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                327.97601318359375,
+                0.0
+            ]
+        },
+        {
+            "title": "CIC-IDS 2017 Features",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                268.6400146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix D: Meta-Review",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                724.1419677734375,
+                0.0
+            ]
+        },
+        {
+            "title": "Summary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                678.9420166015625,
+                0.0
+            ]
+        },
+        {
+            "title": "Scientific Contributions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                521.72705078125,
+                0.0
+            ]
+        },
+        {
+            "title": "Reasons for Acceptance",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                54.0,
+                407.4599914550781,
+                0.0
+            ]
+        }
+    ],
+    "pages": 19,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 7,
+        "equations": {
+            "successful_ocr": 28,
+            "unsuccessful_ocr": 1,
+            "equations": 29
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
