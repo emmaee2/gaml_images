@@ -1,0 +1,221 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                449.2960205078125,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Problem Definition",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                590.1439819335938,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Adversarial Attacks",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                230.09100341796875,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Defenses",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                157.66400146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Image cropping-rescaling, bit-depth reduction, and compression",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                710.1380004882812,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 Total variance minimization",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                472.2539978027344,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 Image quilting",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                520.2570190429688,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Experiments",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 6,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                302.3809814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1 Experimental Setup",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                141.86900329589844,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2 Gray Box: Image Transformations at Test Time",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                180.54100036621094,
+                0.0
+            ]
+        },
+        {
+            "title": "5.3 Black Box: Image Transformations at Training and Test Time",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                231.13800048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "5.4 Black Box: Ensembling and Model Transfer",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                496.7200012207031,
+                0.0
+            ]
+        },
+        {
+            "title": "5.5 Gray Box: Image Transformations at Training and Test Time",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                280.666015625,
+                0.0
+            ]
+        },
+        {
+            "title": "5.6 Comparison with Prior Work",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                119.40599822998047,
+                0.0
+            ]
+        },
+        {
+            "title": "6 Discussion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                137.5469970703125,
+                0.0
+            ]
+        }
+    ],
+    "pages": 12,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 9,
+            "unsuccessful_ocr": 1,
+            "equations": 10
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
