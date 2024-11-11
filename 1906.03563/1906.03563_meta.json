@@ -1,0 +1,403 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                275.2860107421875,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1 Related work",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                488.7799987792969,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Min-Max Across Domains",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                179.8590087890625,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Min-Max Power in Attack Design",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                431.4120178222656,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 A Unified Framework for Robust Adversarial Attacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                338.8819885253906,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 Min-Max Algorithm for Adversarial Attack Generation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                470.6700134277344,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Experiments on Adversarial Exploration",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                452.927978515625,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Experimental setup",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                370.30999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 Ensemble Attack over Multiple Models",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                217.14500427246094,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 Multi-Image Universal Perturbation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                395.2450256347656,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4 Robust Attack over Data Transformations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                139.40699768066406,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Extension: Understanding Defense over Multiple Perturbation Domains",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                471.0559997558594,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1 Adversarial Training under Mixed Types of Adversarial Attacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                366.0849914550781,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2 Generalized AT vs. Multiple p Attacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                276.4989929199219,
+                0.0
+            ]
+        },
+        {
+            "title": "5.3 Additional Discussions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                608.4509887695312,
+                0.0
+            ]
+        },
+        {
+            "title": "6 Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                313.9649963378906,
+                0.0
+            ]
+        },
+        {
+            "title": "A Proof of Proposition 1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B Proof of Lemma 1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C Alternating Multi-step PGD (AMPGD) for Generalized AT",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "D Experiment Setup",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "D.1 Model Architectures and Training Details",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                700.5150146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "D.2 Crafting Adversarial Examples",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                231.7570037841797,
+                0.0
+            ]
+        },
+        {
+            "title": "D.3 Details of Conducted Data Transformations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                645.2650146484375,
+                0.0
+            ]
+        },
+        {
+            "title": "E Additional Experiment Results - Robust adversarial attacks",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "E.1 Ensemble Attack over Multiple Models",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                701.385986328125,
+                0.0
+            ]
+        },
+        {
+            "title": "E.2 Robust Adversarial Attack over Data Transformations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                247.9879913330078,
+                0.0
+            ]
+        },
+        {
+            "title": "E.3 Analysis of Regularization on Probability Simplex",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                184.6280059814453,
+                0.0
+            ]
+        },
+        {
+            "title": "F Additional Experiment Results - Adversarial training against multiple types of adversarial attacks",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                338.3039855957031,
+                0.0
+            ]
+        },
+        {
+            "title": "G Interpreting \u201cImage Robustness\u201d with Domain Weights w",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.0,
+                720.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 27,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 15,
+        "equations": {
+            "successful_ocr": 52,
+            "unsuccessful_ocr": 5,
+            "equations": 57
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

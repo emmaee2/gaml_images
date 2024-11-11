@@ -1,0 +1,221 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                338.9828796386719,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Related works",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                199.5018310546875,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Main results",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                719.1231079101562,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 Notations and definitions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                665.2820434570312,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 Robust generalization analysis",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                234.19140625,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.1 General results",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                124.70238494873047,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.2 Learning from Gaussian mixture model",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                453.6512756347656,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Algorithm and experiments",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                154.69439697265625,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Practical algorithm",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                128.0750274658203,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 Experimental setting",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                370.4203796386719,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 Experimental results",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                154.0921630859375,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                177.09814453125,
+                0.0
+            ]
+        },
+        {
+            "title": "A Background on generalization and Rademacher complexity",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                719.1231079101562,
+                0.0
+            ]
+        },
+        {
+            "title": "B Proof of Theorem 1",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                489.5454406738281,
+                0.0
+            ]
+        },
+        {
+            "title": "C Proof of Theorem 4",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                108.13499450683594,
+                218.8942413330078,
+                0.0
+            ]
+        }
+    ],
+    "pages": 16,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 16,
+        "code": 5,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 61,
+            "unsuccessful_ocr": 3,
+            "equations": 64
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
