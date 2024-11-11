@@ -1,0 +1,221 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                306.7710266113281,
+                0.0
+            ]
+        },
+        {
+            "title": "2 An Optimization View on Adversarial Robustness",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 1,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                543.7789916992188,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1 A Unified View on Attacks and Defenses",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                421.2820129394531,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Towards Universally Robust Networks",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                620.31201171875,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 The Landscape of Adversarial Examples",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                370.74603271484375,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 First-Order Adversaries",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                388.96600341796875,
+                0.0
+            ]
+        },
+        {
+            "title": "3.3 Descent Directions for Adversarial Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                475.3909912109375,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Network Capacity and Adversarial Robustness",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                162.03700256347656,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Experiments: Adversarially Robust Deep Learning Models",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                323.4639892578125,
+                0.0
+            ]
+        },
+        {
+            "title": "6 Related Work",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7 Conclusion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                296.9129943847656,
+                0.0
+            ]
+        },
+        {
+            "title": "A Statement and Application of Danskin's Theorem",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                472.60699462890625,
+                0.0
+            ]
+        },
+        {
+            "title": "B Transferability",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                306.06201171875,
+                0.0
+            ]
+        },
+        {
+            "title": "C MNIST Inspection",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "D Supplementary Figures",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                72.0,
+                256.2650146484375,
+                0.0
+            ]
+        }
+    ],
+    "pages": 28,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 10,
+        "equations": {
+            "successful_ocr": 11,
+            "unsuccessful_ocr": 2,
+            "equations": 13
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

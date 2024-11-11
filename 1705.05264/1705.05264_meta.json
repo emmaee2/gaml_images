@@ -1,0 +1,130 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                425.3879699707031,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Defensive distillation",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                353.3609924316406,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Extending defensive distillation",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                380.1499938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Evaluation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                604.926025390625,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Experimental setup",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                325.3799743652344,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 Robustness to white-box attacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                667.197998046875,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 Robustness to black-box attacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                667.197998046875,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Discussion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                133.7679901123047,
+                490.38897705078125,
+                0.0
+            ]
+        }
+    ],
+    "pages": 11,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 0,
+        "equations": {
+            "successful_ocr": 4,
+            "unsuccessful_ocr": 1,
+            "equations": 5
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

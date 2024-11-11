@@ -1,0 +1,325 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                476.9100036621094,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Related Works",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                136.36000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Methods",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                444.33599853515625,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 Adversarial Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                291.9049987792969,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 Virtual Adversarial Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                468.8559875488281,
+                0.0
+            ]
+        },
+        {
+            "title": "3.3 Fast Approximation Method for rvadv and the Derivative of the Objective Function",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                249.38101196289062,
+                0.0
+            ]
+        },
+        {
+            "title": "3.4 Virtual Adversarial Training vs. Random Perturbation Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                333.9639892578125,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Experiments",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 9,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                413.2340087890625,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Testing the Efficacy of VAT on Benchmark Tasks",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                550.7789916992188,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1.1 Supervised Learning on MNIST and CIFAR-10",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                534.385009765625,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1.2 Semi-Supervised Learning on MNIST, SVHN, and CIFAR-10",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                164.10400390625,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2  Effects of Perturbation Size  and Regularization Coefficient ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                210.75900268554688,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3  Effect of the Number of the Power Iterations K",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                542.2140502929688,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4 Visualization of Virtual Adversarial Examples",
+            "level": 1,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                119.5999984741211,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.1 Virtual Adversarial Examples Produced by the Model Trained with Different Choices of ",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                105.66399383544922,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2 Robustness against Virtual Adversarial Examples after Training",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                405.5920104980469,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5 Experimental Assessment of the Difference between VAT and RPT ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                536.8619995117188,
+                0.0
+            ]
+        },
+        {
+            "title": "5 Conclusions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                126.84200286865234,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                312.0,
+                689.697021484375,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix A: Supervised Classification for the MNIST Dataset",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                753.7240600585938,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix B: Supervised Classification for CIFAR-10 Dataset",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                552.7440185546875,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix C: Semi-Supervised Classification for the MNIST Dataset",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                413.7010192871094,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix D: Semi-Supervised Classification for the SVHN and CIFAR-10 Datasets",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.0,
+                205.2989959716797,
+                0.0
+            ]
+        }
+    ],
+    "pages": 16,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 7,
+        "equations": {
+            "successful_ocr": 29,
+            "unsuccessful_ocr": 3,
+            "equations": 32
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

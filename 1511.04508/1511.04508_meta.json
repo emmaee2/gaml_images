@@ -1,0 +1,299 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "I Introduction",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                336.4049987792969,
+                0.0
+            ]
+        },
+        {
+            "title": "II Adversarial Deep Learning",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                142.11500549316406,
+                0.0
+            ]
+        },
+        {
+            "title": "II-A Deep Neural Networks in Adversarial Settings",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                396.5420227050781,
+                0.0
+            ]
+        },
+        {
+            "title": "II-B Adversarial Sample Crafting",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                249.57200622558594,
+                0.0
+            ]
+        },
+        {
+            "title": "II-C About Neural Network Distillation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                486.0610046386719,
+                0.0
+            ]
+        },
+        {
+            "title": "III Defending DNNs using Distillation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                313.29998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "III-A Defending against Adversarial Perturbations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                144.697998046875,
+                0.0
+            ]
+        },
+        {
+            "title": "III-B Distillation as a Defense",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                477.06298828125,
+                0.0
+            ]
+        },
+        {
+            "title": "IV Analysis of Defensive Distillation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 3,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                739.5170288085938,
+                0.0
+            ]
+        },
+        {
+            "title": "IV-A Impact of Distillation on Network Training",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                408.25,
+                0.0
+            ]
+        },
+        {
+            "title": "IV-B Impact of Distillation on Model Sensitivity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                133.1439971923828,
+                0.0
+            ]
+        },
+        {
+            "title": "IV-C Distillation and the Generalization Capabilities of DNNs",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                142.36900329589844,
+                0.0
+            ]
+        },
+        {
+            "title": "V Evaluation",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                192.91299438476562,
+                0.0
+            ]
+        },
+        {
+            "title": "V-A Overview of the Experimental Setup",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                263.72900390625,
+                0.0
+            ]
+        },
+        {
+            "title": "V-B Defensive Distillation and Adversarial Samples",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                530.425048828125,
+                0.0
+            ]
+        },
+        {
+            "title": "V-C Distillation and Sensitivity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                48.96400451660156,
+                299.5610046386719,
+                0.0
+            ]
+        },
+        {
+            "title": "V-D Distillation and Robustness",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                213.7830047607422,
+                0.0
+            ]
+        },
+        {
+            "title": "VI Discussion",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                357.7900085449219,
+                0.0
+            ]
+        },
+        {
+            "title": "VII Related Work",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                739.5170288085938,
+                0.0
+            ]
+        },
+        {
+            "title": "VIII Conclusions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                311.9779968261719,
+                332.9120178222656,
+                0.0
+            ]
+        },
+        {
+            "title": "References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                146.3489990234375,
+                583.47802734375,
+                0.0
+            ]
+        }
+    ],
+    "pages": 16,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 0,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 18,
+            "unsuccessful_ocr": 1,
+            "equations": 19
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
